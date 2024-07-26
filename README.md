@@ -1,2 +1,2 @@
 # bootdev-python-stuff
-working on bootdev stuff
+BookBot is my first project
